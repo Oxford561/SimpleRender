@@ -1,7 +1,7 @@
 ﻿
 namespace SimpleRender
 {
-    partial class Form1
+    partial class SimpleRender
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,10 +29,18 @@ namespace SimpleRender
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // SimpleRender
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.DoubleBuffered = true;
+            this.Name = "SimpleRender";
+            this.Text = "SimpleRender";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
