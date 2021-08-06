@@ -1,0 +1,15 @@
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.exe
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.deps.json
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.runtimeconfig.json
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.runtimeconfig.dev.json
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.dll
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\bin\Debug\netcoreapp3.1\SimpleRender.pdb
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.csprojAssemblyReference.cache
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.SimpleRender.resources
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.csproj.GenerateResource.cache
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.AssemblyInfoInputs.cache
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.AssemblyInfo.cs
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.csproj.CoreCompileInputs.cache
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.dll
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.pdb
+C:\Users\wb.liujin01\Desktop\Code\SimpleRender\obj\Debug\netcoreapp3.1\SimpleRender.genruntimeconfig.cache
